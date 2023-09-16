@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPViolationApp", "DIPViolationApp\DIPViolationApp.csproj", "{887985D3-E001-472F-B82C-44E4BB176EB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPSolutionApp", "DIPSolutionApp\DIPSolutionApp.csproj", "{4956D1E1-F8D5-4AAC-9546-79C266C0C776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887985D3-E001-472F-B82C-44E4BB176EB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887985D3-E001-472F-B82C-44E4BB176EB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887985D3-E001-472F-B82C-44E4BB176EB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887985D3-E001-472F-B82C-44E4BB176EB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4956D1E1-F8D5-4AAC-9546-79C266C0C776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4956D1E1-F8D5-4AAC-9546-79C266C0C776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4956D1E1-F8D5-4AAC-9546-79C266C0C776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4956D1E1-F8D5-4AAC-9546-79C266C0C776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C86A7DF5-930C-4E2C-B0FF-BC2D8A3930C4}
+	EndGlobalSection
+EndGlobal
